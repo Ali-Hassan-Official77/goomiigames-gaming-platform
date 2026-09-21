@@ -32,6 +32,8 @@ export default function RootLayout({ children }) {
           <main>{children}</main>
           <Footer />
         </div>
+
+  <script src="https://cdn.zanderio.ai/widget/loader.js" data-id="wdg_sMyFpZx9fv0Zifc2Zlo3vkcE" defer></script>
       </body>
     </html>
   );
